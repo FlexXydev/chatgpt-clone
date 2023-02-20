@@ -4,7 +4,7 @@
 
 Mission-2-Section-7 est un projet visant à mettre en place un système efficace pour suivre les missions de la Section 7 et enregistrer les contributions de chaque membre de la communauté. Ce projet sera développé sous forme d'un site / application / logiciel qui permettra de répertorier les missions au fur et à mesure de leur arrivée, et de suivre les liens vers les différents repositories GitHub des participants. 
 
-Le projet contiendra également une liste des préceptes de la Section 7, qui permettra aux membres de la communauté de s'y référer en tout temps. Le design du site / application / logiciel sera clair et attrayant, afin de permettre une utilisation facile et intuitive.
+Le projet contiendra également une liste des préceptes de la Section 7, qui permettra aux membres de la communauté de s'y référer en tout temps. Le design du site / application / logiciel sera clair et attrayant, afin de permettre une utilisation facile et intuitive. JSP
 
 Ce projet servira également de portfolio pour la Section 7, de vitrine pour les contributions de chaque membre et permettra de montrer les réalisations de la communauté à l'extérieur.
 
