@@ -19,7 +19,7 @@ function App() {
     setInput("");
     setChatLog(ChatLogNew)
     const messages = ChatLogNew.map((message) => message.message).join("");
-    const response = await fetch("http://localhost:3080/", {
+    const response = await fetch("http://76.76.21.93:3080/", {
       method: "POST",
       headers: {
         "Content-Type":"application/json"
